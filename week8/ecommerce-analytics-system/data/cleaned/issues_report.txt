@@ -1,0 +1,14 @@
+DATA CLEANING REPORT
+====================
+
+Wrong date formats fixed : 27
+Invalid emails found     : 6
+Broken order references  : 0
+
+Customer IDs with invalid emails:
+CUST0068
+CUST0151
+CUST0173
+CUST0177
+CUST0461
+CUST0496
